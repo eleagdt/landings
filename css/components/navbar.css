@@ -1,0 +1,13 @@
+nav{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    background: white;
+}
+
+.navbar .navbar-nav a{
+    color: #5C9FB6 !important;
+}
+
+.navbar-light .navbar-brand{
+    color: #051D40;
+}

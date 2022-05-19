@@ -1,0 +1,38 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+/* Importing component files */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/navbar.css");
+@import url("components/text-brand.css");
+@import url("components/key-number.css");
+@import url("components/args.css");
+@import url("components/try-trackme.css");
+@import url("components/footer.css");
+
+/* General style rules for fonts and colors */
+body {
+    font-family: 'Roboto', serif;
+    font-size: 18px;
+    margin: 0px;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-weight: 900;
+
+}
+h2{
+    font-weight: 700;
+    color: #5C9FB6;
+}
+h3{
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
+}
+

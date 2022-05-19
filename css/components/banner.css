@@ -1,0 +1,30 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #ADD8E6;
+    padding-right: 12%;
+    padding-left: 4%;
+}
+
+.img {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.text-btn{
+    margin-top: 150px;
+    margin-left: 85px;
+    color: #051D40;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+
+
